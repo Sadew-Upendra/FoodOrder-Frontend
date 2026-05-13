@@ -41,9 +41,11 @@ const SignInPage = () => {
 
           <form onSubmit={handleSubmit} className="p-8 space-y-5">
             {/* Admin hint */}
+            {/*
             <div className="bg-blue-50 border border-blue-200 rounded-xl p-3 text-xs text-blue-700 font-medium">
               🔑 <strong>Admin:</strong> admin@foodorder.lk / Admin@1234
             </div>
+            */}
 
             {/* Email */}
             <div>
